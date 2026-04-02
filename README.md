@@ -1,12 +1,6 @@
-# special-eureka-happyness
+# ITS-UserScripts
 
 ## Files
-- `alfred-camera.user.js`: Adds UI and automation helpers, including:
-  - `Refresh on Timeout` header toggle
-  - post-refresh auto-camera navigation
-  - keeps native DOWNLOAD behavior for clips
-  - adds a separate `PLAY NOW` button to watch clips in-page
-- `meeting-launcher-autoclose.user.js`: Adds a 15-minute top-center countdown banner on Webex/Teams launcher pages with **Close now** and **Cancel auto-close** actions, then attempts to close the tab automatically when time expires.
 - `statejobsny-responsive.user.js`
   - Tampermonkey userscript for improving the layout on:
     - https://statejobsny.com/public/*
