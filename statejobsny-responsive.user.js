@@ -8,6 +8,8 @@
 // @match        https://statejobsny.com/employees/*
 // @run-at       document-idle
 // @grant        window.close
+// @updateURL    https://github.com/kennyp345/ITS-UserScripts/raw/refs/heads/main/statejobsny-responsive.user.js
+// @downloadURL  https://github.com/kennyp345/ITS-UserScripts/raw/refs/heads/main/statejobsny-responsive.user.js
 // ==/UserScript==
 
 (function () {
