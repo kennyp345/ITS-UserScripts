@@ -10,8 +10,8 @@
 // @match        https://statejobs.ny.gov/employees/*
 // @run-at       document-idle
 // @grant        none
-// @updateURL    https://github.com/silentsteel875/special-eureka-happyness/raw/refs/heads/main/statejobsny-responsive.user.js
-// @downloadURL  https://github.com/silentsteel875/special-eureka-happyness/raw/refs/heads/main/statejobsny-responsive.user.js
+// @updateURL    https://github.com/kennyp345/ITS-UserScripts/raw/refs/heads/main/statejobsny-responsive.user.js
+// @downloadURL  https://github.com/kennyp345/ITS-UserScripts/raw/refs/heads/main/statejobsny-responsive.user.js
 // ==/UserScript==
 
 (function () {
